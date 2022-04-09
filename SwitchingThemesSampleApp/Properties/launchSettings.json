@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SwitchingThemesSampleApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SwitchingThemesSampleApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
